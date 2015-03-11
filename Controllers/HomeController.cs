@@ -1,7 +1,4 @@
 ﻿using Microsoft.AspNet.Mvc;
-using MvcSample.Web.Models;
-using Microsoft.AspNet.Http.Core;
-using Microsoft.Net.Http.Headers;
 
 namespace MvcSample.Web
 {
