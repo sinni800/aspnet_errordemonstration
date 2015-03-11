@@ -1,5 +1,4 @@
 ﻿using Microsoft.AspNet.Mvc;
-using MvcSample.Web.Models;
 
 namespace MvcSample.Web
 {
